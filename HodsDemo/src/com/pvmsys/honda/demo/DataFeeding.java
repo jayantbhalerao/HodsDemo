@@ -47,7 +47,7 @@ public class DataFeeding extends HttpServlet {
 			for(int i =0;i<10;i++){
               bean = new TreeBean();
               bean.setId("Node_"+i);
-              bean.setValue("#ADC123"+i);
+              bean.setValue("#P60411110088"+i);
               bean.setLink("div");
               bean.setWebix_kids(true);
               array.add(bean);
@@ -57,15 +57,35 @@ public class DataFeeding extends HttpServlet {
 		{
 			System.out.println("The Node Name is "+request.getParameter("parent"));
 			if(request.getParameter("parent").equals("Node_0")){
-			for(int i =0;i<10;i++){
+			for(int i =0;i<4;i++){
 	              bean = new TreeBean();
 	              bean.setId("Node_0_"+i);
-	              bean.setValue("#ADC123"+i);
+	              bean.setValue("#Q047799000"+i);
 	              bean.setLink("add");
 	              bean.setWebix_kids(true);
 	              array.add(bean);
 				}
 			}
+			if(request.getParameter("parent").equals("Node_0_0")){
+				for(int i =0;i<4;i++){
+		              bean = new TreeBean();
+		              bean.setId("Node_0_0_"+i);
+		              bean.setValue("#R041199000"+i);
+		              bean.setLink("sub");
+		              bean.setWebix_kids(true);
+		              array.add(bean);
+					}
+				}
+			if(request.getParameter("parent").equals("Node_0_0_0")){
+				for(int i =0;i<4;i++){
+		              bean = new TreeBean();
+		              bean.setId("Node_0_0_0_"+i);
+		              bean.setValue("#S6041111900"+i);
+		              bean.setLink("multi");
+		              bean.setWebix_kids(true);
+		              array.add(bean);
+					}
+				}
 		}
 		JSONObject jsonData = new JSONObject();
 		jsonData.put("data", array);

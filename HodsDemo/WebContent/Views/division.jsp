@@ -3,12 +3,11 @@
 <div class="panelcustcss panel panel-primary">
     <div class="panel-heading">
         SMF Panel
-
     </div>
     <div class="panel-body">
         <div ng-contoller="subCtrl">
             <div>
-                <table class="table table-responsive table-hover table-bordered"
+                <table class="table table-responsive table-bordered table-striped"
                        style="font-size: 12px">
                     <thead>
                         <tr class="info">

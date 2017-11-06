@@ -1,6 +1,6 @@
 
 
-<div class="panel panel-danger">
+<div class="panelcustcss panel panel-danger">
     <div class="panel-heading">
         SMF Panel
 
@@ -72,7 +72,5 @@
             </div>
         </div>
     </div>
-</div>
-
 </div>
 
