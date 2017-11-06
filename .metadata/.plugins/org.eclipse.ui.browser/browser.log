@@ -1,0 +1,445 @@
+
+Oct 11, 2017 09:57:12.19 NEW SESSION
+Oct 11, 2017 09:57:12.19 1507696032197	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.20 1507696032207	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.21 1507696032217	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.22 1507696032227	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Oct 11, 2017 09:57:12.43 1507696032431	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.44 1507696032445	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+Oct 11, 2017 09:57:12.46 1507696032459	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.47 1507696032473	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.48 1507696032482	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+Oct 11, 2017 09:57:12.70 1507696032701	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Oct 12, 2017 09:50:46.22 NEW SESSION
+Oct 12, 2017 09:50:46.22 console.error: 
+Oct 12, 2017 09:50:46.23   Message: TypeError: ele.ownerGlobal is null
+Oct 12, 2017 09:50:46.23   Stack:
+Oct 12, 2017 09:50:46.23     findCssSelector@resource://gre/modules/css-selector.js:59:7
+Oct 12, 2017 09:50:46.23 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 09:50:46.23 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 09:50:46.23 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 09:50:46.23 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 09:50:46.23 
+Oct 12, 2017 09:50:46.23 findCssSelector@resource://gre/modules/css-selector.js:59:7
+Oct 12, 2017 09:50:46.23 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 09:50:46.25 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 09:50:46.25 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 09:50:46.25 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 09:59:21.75 1507782561753	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:21.76 1507782561762	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:21.80 1507782561805	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Oct 12, 2017 09:59:21.83 1507782561832	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:22.03 1507782562033	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+Oct 12, 2017 09:59:22.05 1507782562051	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:22.07 1507782562077	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:22.08 1507782562086	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:22.09 1507782562096	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+Oct 12, 2017 09:59:22.10 1507782562105	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 12, 2017 09:59:23.56 1507782563567	addons.xpi	ERROR	Failed to clean updated system add-ons directories.
+Oct 12, 2017 10:01:47.18 console.error: 
+Oct 12, 2017 10:01:47.18   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode1352
+Oct 12, 2017 10:01:47.49 console.error: 
+Oct 12, 2017 10:01:47.49   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode1309
+Oct 12, 2017 10:01:54.29 console.error: 
+Oct 12, 2017 10:01:54.29   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode1346
+Oct 12, 2017 10:06:49.70 console.error: 
+Oct 12, 2017 10:06:49.70   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4720
+Oct 12, 2017 10:06:49.70 console.error: 
+Oct 12, 2017 10:06:49.70   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4715
+Oct 12, 2017 10:06:49.70 console.error: 
+Oct 12, 2017 10:06:49.70   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4711
+Oct 12, 2017 10:06:49.70 console.error: 
+Oct 12, 2017 10:06:49.70   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4497
+Oct 12, 2017 10:06:49.70 console.error: 
+Oct 12, 2017 10:06:49.70   Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4460
+Oct 12, 2017 10:36:24.66 console.error: 
+Oct 12, 2017 10:36:24.66   Message: Error: findCssSelector received element not inside document
+Oct 12, 2017 10:36:24.66   Stack:
+Oct 12, 2017 10:36:24.66     findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 10:36:24.66 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 10:36:24.66 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 10:36:24.66 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 10:36:24.66 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 10:36:24.66 
+Oct 12, 2017 10:36:24.66 findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 10:36:24.66 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 10:36:24.67 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 10:36:24.67 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 10:36:24.67 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 10:40:50.14 console.error: 
+Oct 12, 2017 10:40:50.14   Message: Error: findCssSelector received element not inside document
+Oct 12, 2017 10:40:50.14   Stack:
+Oct 12, 2017 10:40:50.14     findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 10:40:50.14 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 10:40:50.14 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 10:40:50.14 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 10:40:50.14 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 10:40:50.14 
+Oct 12, 2017 10:40:50.14 findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 10:40:50.14 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 10:40:50.14 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 10:40:50.14 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 10:40:50.14 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 10:54:39.82 console.error: 
+Oct 12, 2017 10:54:39.82   Message: Error: Failed to fetch https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css.map. Code 2152398850.
+Oct 12, 2017 10:54:39.82   Stack:
+Oct 12, 2017 10:54:39.82     onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:453:23
+Oct 12, 2017 10:54:39.82 onStopRequest@resource://gre/modules/NetUtil.jsm:131:17
+Oct 12, 2017 10:54:39.82 
+Oct 12, 2017 10:54:39.82 onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:453:23
+Oct 12, 2017 10:54:39.82 onStopRequest@resource://gre/modules/NetUtil.jsm:131:17
+Oct 12, 2017 10:54:39.86 console.error: 
+Oct 12, 2017 10:54:39.86   Protocol error (unknownError): Failed to fetch https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css.map. Code 2152398850.
+Oct 12, 2017 10:57:48.87 console.error: 
+Oct 12, 2017 10:57:48.87   Got a removal of an actor we didn't know about: server1.conn2.child1/domnode3928
+Oct 12, 2017 11:36:45.28 console.error: 
+Oct 12, 2017 11:36:45.28   Message: Error: findCssSelector received element not inside document
+Oct 12, 2017 11:36:45.28   Stack:
+Oct 12, 2017 11:36:45.28     findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 11:36:45.28 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 11:36:45.28 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 11:36:45.28 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 11:36:45.28 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 11:36:45.28 
+Oct 12, 2017 11:36:45.28 findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 11:36:45.28 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 11:36:45.28 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 11:36:45.28 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 11:36:45.28 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 11:38:26.66 console.error: 
+Oct 12, 2017 11:38:26.66   Message: TypeError: ele.ownerGlobal is null
+Oct 12, 2017 11:38:26.66   Stack:
+Oct 12, 2017 11:38:26.66     findCssSelector@resource://gre/modules/css-selector.js:59:7
+Oct 12, 2017 11:38:26.66 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 11:38:26.66 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 11:38:26.66 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 11:38:26.66 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 11:38:26.66 
+Oct 12, 2017 11:38:26.66 findCssSelector@resource://gre/modules/css-selector.js:59:7
+Oct 12, 2017 11:38:26.66 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 11:38:26.66 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 11:38:26.66 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 11:38:26.66 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 12:02:11.60 console.error: 
+Oct 12, 2017 12:02:11.60   Message: Error: findCssSelector received element not inside document
+Oct 12, 2017 12:02:11.60   Stack:
+Oct 12, 2017 12:02:11.60     findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 12:02:11.60 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 12:02:11.60 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 12:02:11.60 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 12:02:11.60 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 12:02:11.60 
+Oct 12, 2017 12:02:11.60 findCssSelector@resource://gre/modules/css-selector.js:56:11
+Oct 12, 2017 12:02:11.60 getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:654:12
+Oct 12, 2017 12:02:11.60 handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1081:19
+Oct 12, 2017 12:02:11.60 onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+Oct 12, 2017 12:02:11.60 receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Oct 12, 2017 15:20:07.86 console.error: 
+Oct 12, 2017 15:20:07.86   Got a removal of an actor we didn't know about: server1.conn1.child1/domnode5178
+Oct 12, 2017 15:20:07.86 console.error: 
+Oct 12, 2017 15:20:07.86   Got a removal of an actor we didn't know about: server1.conn1.child1/domnode5229
+Oct 12, 2017 15:20:07.86 console.error: 
+Oct 12, 2017 15:20:07.86   Got a removal of an actor we didn't know about: server1.conn1.child1/domnode5211
+Oct 12, 2017 15:20:07.86 console.error: 
+Oct 12, 2017 15:20:07.86   Got a removal of an actor we didn't know about: server1.conn1.child1/domnode5328
+Oct 12, 2017 16:11:05.39 console.error: 
+Oct 12, 2017 16:11:05.41   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.41 
+Oct 12, 2017 16:11:05.41 Request stack:
+Oct 12, 2017 16:11:05.41 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.41 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.41 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.41 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.41 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.41 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.41 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.41 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.41 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.41 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.41 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.41 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.41 
+Oct 12, 2017 16:11:05.41   Stack:
+Oct 12, 2017 16:11:05.41     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.41 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.41 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.41 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.41 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.41 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.41 
+Oct 12, 2017 16:11:05.41 console.error: 
+Oct 12, 2017 16:11:05.41   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.41 
+Oct 12, 2017 16:11:05.41 Request stack:
+Oct 12, 2017 16:11:05.41 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.41 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.41 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.41 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.41 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.41 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.41 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.41 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.41 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.41 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.41 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.41 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.41 
+Oct 12, 2017 16:11:05.41   Stack:
+Oct 12, 2017 16:11:05.41     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.41 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.41 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.41 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.41 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.41 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.41 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42 console.error: 
+Oct 12, 2017 16:11:05.42   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42 Request stack:
+Oct 12, 2017 16:11:05.42 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.42 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.42 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.42 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.42 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.42 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.42 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.42 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.42 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.42 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.42 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.42 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42   Stack:
+Oct 12, 2017 16:11:05.42     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.42 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.42 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.42 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.42 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.42 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42 console.error: 
+Oct 12, 2017 16:11:05.42   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42 Request stack:
+Oct 12, 2017 16:11:05.42 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.42 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.42 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.42 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.42 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.42 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.42 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.42 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.42 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.42 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.42 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.42 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42   Stack:
+Oct 12, 2017 16:11:05.42     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.42 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.42 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.42 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.42 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.42 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.42 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.42 
+Oct 12, 2017 16:11:05.42 console.error: 
+Oct 12, 2017 16:11:05.42   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:11:05.44 Request stack:
+Oct 12, 2017 16:11:05.44 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.44 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.44 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.44 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.44 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.44 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.44 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.44 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.44 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.44 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.44 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.44 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:11:05.44   Stack:
+Oct 12, 2017 16:11:05.44     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.44 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.44 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.44 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.44 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.44 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:11:05.44 console.error: 
+Oct 12, 2017 16:11:05.44   Message: Error: Connection closed, pending request to server1.conn5.child1/stylesheet331, type getOriginalLocation failed
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:11:05.44 Request stack:
+Oct 12, 2017 16:11:05.44 request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1268:14
+Oct 12, 2017 16:11:05.44 generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1425:14
+Oct 12, 2017 16:11:05.44 getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:236:12
+Oct 12, 2017 16:11:05.44 getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+Oct 12, 2017 16:11:05.44 updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:276:7
+Oct 12, 2017 16:11:05.44 _create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+Oct 12, 2017 16:11:05.44 RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+Oct 12, 2017 16:11:05.44 _createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1093:23
+Oct 12, 2017 16:11:05.44 _populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:897:28
+Oct 12, 2017 16:11:05.44 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.44 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.44 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:11:05.44   Stack:
+Oct 12, 2017 16:11:05.44     destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1211:23
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:39:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:850:9
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1213:5
+Oct 12, 2017 16:11:05.44 destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+Oct 12, 2017 16:11:05.44 destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2311:13
+Oct 12, 2017 16:11:05.44 _run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+Oct 12, 2017 16:11:05.44 process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+Oct 12, 2017 16:11:05.44 walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+Oct 12, 2017 16:11:05.44 scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Oct 12, 2017 16:11:05.44 
+Oct 12, 2017 16:13:52.29 ??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T??????????p: T[Parent 6452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 12, 2017 17:14:42.34 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+Oct 23, 2017 11:34:56.33 NEW SESSION
+Oct 23, 2017 11:34:56.33 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Oct 23, 2017 11:38:12.90 [Parent 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 23, 2017 11:38:12.90 [Child 7144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 23, 2017 11:38:12.90 [Child 7144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 23, 2017 11:47:52.61 1508739472614	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Oct 23, 2017 11:47:53.06 1508739473067	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.34 1508739473348	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.61 1508739473613	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.65 1508739473652	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.66 1508739473661	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+Oct 23, 2017 11:47:53.91 1508739473912	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.96 1508739473960	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:53.97 1508739473978	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+Oct 23, 2017 11:47:54.11 1508739474109	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 23, 2017 11:48:04.32 1508739484338	addons.xpi	ERROR	Failed to clean updated system add-ons directories.
+Oct 23, 2017 14:20:15.48 [Parent 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 23, 2017 14:20:15.48 [Child 472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 23, 2017 14:20:15.48 [Child 472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Oct 24, 2017 15:37:35.07 NEW SESSION
+Oct 24, 2017 15:37:35.07 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:37:35.07 [Child 6748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:35.07 [Child 6748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:35.22 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:37:35.22 [Child 4340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:35.22 [Child 4340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:35.22 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:37:35.22 [Child 7004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:35.22 [Child 7004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:39.82 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:37:39.82 [Child 3000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:37:39.82 [Child 3000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:41:15.87 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:41:33.50 ??????????p: T??????????p: TUnable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:41:33.50 [Child 4932] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:41:33.50 [Child 4932] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:41:33.52 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:41:33.52 [Child 7784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:41:33.52 [Child 7784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:16.06 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:42:16.06 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:16.06 [Child 5248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:16.06 [Child 5248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:48.93 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:48.93 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:42:48.93 [Child 7728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:48.93 [Child 7728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:57.30 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:42:57.30 [Child 7120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:57.30 [Child 7120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:57.30 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:42:57.30 [Child 5828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:42:57.30 [Child 5828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:43:49.14 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:43:49.14 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:43:49.14 [Child 3768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:58:34.37 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 15:58:34.37 [Child 8176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 15:58:34.37 [Child 8176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 16:03:10.76 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 16:03:10.76 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 16:03:10.76 [Child 6836] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 16:03:10.76 [Child 6836] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:45:38.27 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:45:38.27 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 17:45:38.27 [Child 5480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:45:38.27 [Child 5480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:50:35.03 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:50:35.03 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 17:50:35.03 [Child 6532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 17:50:35.03 [Child 6532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:05:20.08 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:05:20.08 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:05:20.08 [Child 1968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:05:20.08 [Child 1968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:08:48.06 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:08:48.06 [Child 6640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:08:48.06 [Child 6640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:10:16.27 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:10:16.27 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:10:16.27 [Child 1848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:10:16.27 [Child 1848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:16:00.97 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:16:00.99 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:16:00.99 [Child 1472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:16:00.99 [Child 1472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:29:18.31 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:15.44 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:43:15.44 [Child 2668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:15.44 [Child 2668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:17.05 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:43:17.05 [Child 5080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:17.05 [Child 5080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 [Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:43:19.23 [Child 8032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 [Child 8032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 Unable to read VR Path Registry from C:\Users\bjayant\AppData\Local\openvr\openvrpaths.vrpath
+Oct 24, 2017 18:43:19.23 [Child 4964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.23 [Child 4964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Oct 24, 2017 18:43:19.58 
+Oct 24, 2017 18:43:19.58 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 24, 2017 18:43:19.58 

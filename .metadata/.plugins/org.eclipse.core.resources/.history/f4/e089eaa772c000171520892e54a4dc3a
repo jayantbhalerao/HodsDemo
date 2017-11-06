@@ -1,0 +1,146 @@
+  <style>
+		.dropdownstyle {
+			width: 20;
+			line-height: 50px;
+		}
+		
+		.datatableabc {
+			margin: 10px;
+		}
+		
+		.datatableabc .webix_dd_drag_column, .datatableabc .webix_ss_header,
+		.datatableabc .webix_ss_header TD, .datatableabc .webix_ss_vscroll_header
+			{
+			background: #2c3e50;
+			color: aliceblue;
+		}
+		
+		.paneltestcss .webix_item_tab, .paneltestcss .webix_selected {
+			background: #2c3e50;
+			border-color: #2c3e50;
+			font-size : 9px;
+		}
+		
+		.paneltestcss .webix_after_all_tabs {
+			background: #2c3e50;
+		}
+		
+		.combocss .webix_el_colorpicker, .combocss .span.webix_input_icon,
+		.combocss .webix_el_combo, .combocss span.webix_input_icon, .combocss .webix_el_datepicker,
+		.combocss .span.webix_input_icon, .combocss .webix_el_dbldatepicker .combocss .span.webix_input_icon,
+		.combocss .webix_el_richselect, .combocss .span.webix_input_icon {
+			background-color: #2c3e50;
+		}
+		
+		.combocss.webix_list_item.webix_selected {
+			background: #2c3e50;
+		}
+		
+		.webix_el_box {
+			width: 550px;
+		}
+		
+		.headerStyle .webix_item_tab, .headerStyle .webix_after_all_tabs {
+			background: #2c3e50;
+			border-color: #2c3e50;
+		}
+		
+		.imgbtcss.webix_layout_toolbar.webix_toolbar {
+			background: #2c3e50;
+		}
+		
+		.advsrchcss .webixbutton, .advsrchcss .webixtype_base, .advsrchcss .webixtype_next,
+		.advsrchcss .webixtype_prev {
+			background: #2c3e50;
+		}
+		
+		.advsrchcss.webix_el_button button, .advsrchcss.webix_el_button input,
+			.advsrchcss.webix_el_toggle button, .advsrchcss.webix_el_toggle input,
+			.advsrchcss.webixbutton {
+			color: white;
+			width: 22%;
+			border-radius : 0px;
+		}
+		
+		.wincss .webix_layout_toolbar.webix_toolbar {
+			background: #2c3e50;
+		}
+		
+		.custcalender.webix_el_colorpicker span.webix_input_icon, .custcalender.webix_el_combo span.webix_input_icon,
+			.custcalender.webix_el_datepicker span.webix_input_icon, .custcalender.webix_el_dbldatepicker span.webix_input_icon,
+			.custcalender.webix_el_richselect span.webix_input_icon {
+			background-color: #2c3e50;
+		}
+		
+		.webix_cal_event, .webix_cal_body .webix_cal_select, .webix_cal_body .webix_cal_select.webix_cal_today,
+			.webix_cal_body .webix_selected {
+			color: #2c3e50;
+		}
+		
+		.custbutton .webixbutton, .custbutton .webixtype_base, .custbutton .webixtype_next,
+			.custbutton .webixtype_prev, .custbutton .webix_el_button button {
+			background-color: #2c3e50;
+			border: 1px solid #111212;
+		}
+		
+		.custarrow .webix_el_arrow {
+			background-color: #2c3e50;
+		}
+		.webix_view{
+			font-size : 14px;
+		}
+		.custcalender.webix_cal_event {
+			color: #2c3e50;
+		}
+		
+		.webix_list_item.webix_selected {
+			background: #2c3e50;
+		}    
+		.webix_item_tab.webix_selected{
+		font-size : 15px;
+		  border : 0px;
+		  border-radius : 0px;
+		  padding-bottom : 17px;
+		}  
+		.webix_before_all_tabs .webix_all_tabs{
+			height : 30px;
+		}
+		.webix_view.webix_control.webix_el_tabbar{
+			height : 35px !important;
+		}
+		.combocss .webix_inp_label,.combocss .webix_inp_top_label,.combocss .webix_label_right {
+			font-size : 14px;
+		}
+		.webix_el_colorpicker span.webix_input_icon, .webix_el_combo span.webix_input_icon, .webix_el_datepicker span.webix_input_icon, .webix_el_dbldatepicker span.webix_input_icon, .webix_el_richselect span.webix_input_icon{
+			    height: 22px !important;
+		    padding-top: 0px !important;
+			border-radius: 0px 0px 0px 0px;
+		}
+		.webix_el_colorpicker input, .webix_el_combo input, .webix_el_datepicker input, .webix_el_search input, .webix_el_text input{
+			border-radius : 0px;
+			height : 70%;
+		}
+		.panelcustcss.panel.panel-primary,.panelcustcss .panel-heading{
+			border-radius : 0px;
+			height: 35px;
+			border: 0px solid ;
+		}
+		.wincss .webix_el_box{
+			height : 29px;
+		}
+		 .custcalender .webix_el_box.webix_disabled_box{
+		    width :140px !important;
+		    height:29px !important;
+		    
+		 }
+		  .custcalender.webix_el_datepicker .webix_inp_static{
+		  border-radius : 0px !important;
+		  }
+		  .custcalender .webix_el_box{
+		  height : 29px !important;
+		  width : 140px !important;
+		  }
+		  .wincss .webix_view.webix_toolbar.webix_layout_toolbar{
+		  height : 38px !important;
+		  }
+  </style>
