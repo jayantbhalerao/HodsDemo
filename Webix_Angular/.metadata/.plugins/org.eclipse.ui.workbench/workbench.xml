@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="82" version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1024" x="104" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="191" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/index.html" title="index.html" tooltip="WebixAngularPOC/WebContent/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1843" selectionTopPixel="419"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="TreeController.js" partName="TreeController.js" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/controller/TreeController.js" title="TreeController.js" tooltip="WebixAngularPOC/WebContent/js/controller/TreeController.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/controller/TreeController.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1487" selectionTopPixel="570"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="ModuleController.js" partName="ModuleController.js" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/controller/ModuleController.js" title="ModuleController.js" tooltip="WebixAngularPOC/WebContent/js/controller/ModuleController.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/controller/ModuleController.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="380" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="MenuRenderController.js" partName="MenuRenderController.js" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/controller/MenuRenderController.js" title="MenuRenderController.js" tooltip="WebixAngularPOC/WebContent/js/controller/MenuRenderController.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/controller/MenuRenderController.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="295" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="header.html" partName="header.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/views/header.html" title="header.html" tooltip="WebixAngularPOC/WebContent/js/views/header.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/views/header.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="181" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeServlet.java" partName="TreeServlet.java" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/src/WebixPOC/TreeServlet.java" title="TreeServlet.java" tooltip="WebixAngularPOC/src/WebixPOC/TreeServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/src/WebixPOC/TreeServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1368" selectionTopPixel="570"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeBean.java" partName="TreeBean.java" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/src/WebixPOC/TreeBean.java" title="TreeBean.java" tooltip="WebixAngularPOC/src/WebixPOC/TreeBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/src/WebixPOC/TreeBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="172" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" partName="web.xml" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="WebixAngularPOC/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="partial-about.html" partName="partial-about.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/templates/partial-about.html" title="partial-about.html" tooltip="WebixAngularPOC/WebContent/templates/partial-about.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/templates/partial-about.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="23" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="partial-home.html" partName="partial-home.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/templates/partial-home.html" title="partial-home.html" tooltip="WebixAngularPOC/WebContent/templates/partial-home.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/templates/partial-home.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="137" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" partName="table.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/table.html" title="table.html" tooltip="WebixAngularPOC/WebContent/table.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/table.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="348" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="treedata.js" partName="treedata.js" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/treedata.js" title="treedata.js" tooltip="WebixAngularPOC/WebContent/js/treedata.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/treedata.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="560"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="about.html" partName="about.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/templates/about.html" title="about.html" tooltip="WebixAngularPOC/WebContent/js/templates/about.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/templates/about.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="home.html" partName="home.html" path="D:/Ajinkya_Data/Webix_Angular/WebixAngularPOC/WebContent/js/templates/home.html" title="home.html" tooltip="WebixAngularPOC/WebContent/js/templates/home.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WebixAngularPOC/WebContent/js/templates/home.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="137" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="1" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<columnWidths org.eclipse.ui.ide.allSeverityField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="org.eclipse.jdt.ui.JavaSearchResultPage" org.eclipse.jdt.search.resultpage.grouping="3" org.eclipse.jdt.search.resultpage.limit="1000" org.eclipse.jdt.search.resultpage.limit_enabled="TRUE" org.eclipse.jdt.search.resultpage.sorting="1" org.eclipse.search.lastActivation="3" org.eclipse.search.resultpage.layout="2"/>
+<view IMemento.internal.id="org.eclipse.wst.jsdt.ui.JavaSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.wst.jsdt.search.resultpage.grouping="3" org.eclipse.wst.jsdt.search.resultpage.limit="1000" org.eclipse.wst.jsdt.search.resultpage.limit_enabled="TRUE" org.eclipse.wst.jsdt.search.resultpage.sorting="1"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="2" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.editorcore.modeswitch"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.designview.activationcontrol"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.AllMarkersView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.23247233" ratioLeft="315" ratioRight="1040" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.631664" ratioLeft="391" ratioRight="228" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/src/WebixPOC/TreeBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/WebixAngularPOC/WebContent/js/views/header.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/WebixAngularPOC/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/controller/MenuRenderController.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/controller/TreeController.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/WebixAngularPOC/WebContent/index.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/WebixAngularPOC/WebContent/table.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/angular-ui-router.min.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/treedata.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/angular.min.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/WebixAngularPOC/WebContent/js/templates/about.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/WebixAngularPOC/WebContent/js/templates/home.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/Angular.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/controller/TreeController.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/WebixAngularPOC/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/src/WebixPOC/TreeServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/WebContent/js/controller/TreeController.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WebixAngularPOC/src/WebixPOC/TreeServlet.java"/>
+</editors>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="329" y="0"/>
+</item>
+<item historyLabel="table.html" index="6">
+<position/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="544" y="0"/>
+</item>
+<item historyLabel="angular-ui-router.min.js" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="720" y="0"/>
+</item>
+<item historyLabel="treedata.js" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="825" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1633" y="0"/>
+</item>
+<item historyLabel="MenuRenderController.js" index="3">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="425" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="201" y="0"/>
+</item>
+<item historyLabel="angular.min.js" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="1962" y="0"/>
+</item>
+<item historyLabel="MenuRenderController.js" index="3">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1488" y="0"/>
+</item>
+<item historyLabel="MenuRenderController.js" index="3">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="TreeBean.java" index="0">
+<position info="not_deleted" x="172" y="0"/>
+</item>
+<item historyLabel="web.xml" index="2">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="table.html" index="6">
+<position info="not_deleted" x="348" y="0"/>
+</item>
+<item historyLabel="treedata.js" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="773" y="0"/>
+</item>
+<item historyLabel="web.xml" index="2">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="TreeBean.java" index="0">
+<position info="not_deleted" x="172" y="0"/>
+</item>
+<item historyLabel="MenuRenderController.js" index="3">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1488" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="178" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1488" y="0"/>
+</item>
+<item historyLabel="about.html" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="home.html" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="1261" y="0"/>
+</item>
+<item historyLabel="header.html" index="1">
+<position info="not_deleted" x="154" y="0"/>
+</item>
+<item historyLabel="MenuRenderController.js" index="3">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1488" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="1815" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="4">
+<position info="not_deleted" x="1443" y="4"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="1843" y="0"/>
+</item>
+<item historyLabel="web.xml" index="2">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="Angular.js" index="12">
+<position info="not_deleted" x="27509" y="0"/>
+</item>
+<item historyLabel="web.xml" index="2">
+<position info="not_deleted" x="576" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="13">
+<position info="not_deleted" x="1436" y="4"/>
+</item>
+<item historyLabel="web.xml" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TreeServlet.java" index="15">
+<position info="not_deleted" x="340" y="0"/>
+</item>
+<item historyLabel="TreeServlet.java" index="15">
+<position info="not_deleted" x="389" y="11"/>
+</item>
+<item historyLabel="web.xml" index="14">
+<position info="not_deleted" x="729" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="16">
+<position info="not_deleted" x="1448" y="0"/>
+</item>
+<item historyLabel="web.xml" index="14">
+<position info="not_deleted" x="704" y="0"/>
+</item>
+<item historyLabel="TreeServlet.java" index="17">
+<position info="not_deleted" x="436" y="0"/>
+</item>
+<item historyLabel="web.xml" index="14">
+<position info="not_deleted" x="778" y="0"/>
+</item>
+<item historyLabel="TreeController.js" index="16">
+<position info="not_deleted" x="1487" y="0"/>
+</item>
+<item active="true" historyLabel="TreeServlet.java" index="17">
+<position info="not_deleted" x="436" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="home.html" tooltip="WebixAngularPOC/WebContent/js/templates/home.html">
+<persistable path="/WebixAngularPOC/WebContent/js/templates/home.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="about.html" tooltip="WebixAngularPOC/WebContent/js/templates/about.html">
+<persistable path="/WebixAngularPOC/WebContent/js/templates/about.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="angular.min.js" tooltip="WebixAngularPOC/WebContent/js/angular.min.js">
+<persistable path="/WebixAngularPOC/WebContent/js/angular.min.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="treedata.js" tooltip="WebixAngularPOC/WebContent/js/treedata.js">
+<persistable path="/WebixAngularPOC/WebContent/js/treedata.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="angular-ui-router.min.js" tooltip="WebixAngularPOC/WebContent/js/angular-ui-router.min.js">
+<persistable path="/WebixAngularPOC/WebContent/js/angular-ui-router.min.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" tooltip="WebixAngularPOC/WebContent/table.html">
+<persistable path="/WebixAngularPOC/WebContent/table.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="partial-home.html" tooltip="WebixAngularPOC/WebContent/templates/partial-home.html">
+<persistable path="/WebixAngularPOC/WebContent/templates/partial-home.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="partial-about.html" tooltip="WebixAngularPOC/WebContent/templates/partial-about.html">
+<persistable path="/WebixAngularPOC/WebContent/templates/partial-about.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="WebixAngularPOC/WebContent/WEB-INF/web.xml">
+<persistable path="/WebixAngularPOC/WebContent/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="Angular.js" tooltip="WebixAngularPOC/WebContent/js/Angular.js">
+<persistable path="/WebixAngularPOC/WebContent/js/Angular.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeBean.java" tooltip="WebixAngularPOC/src/WebixPOC/TreeBean.java">
+<persistable path="/WebixAngularPOC/src/WebixPOC/TreeBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeServlet.java" tooltip="WebixAngularPOC/src/WebixPOC/TreeServlet.java">
+<persistable path="/WebixAngularPOC/src/WebixPOC/TreeServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="webix.js" tooltip="WebixAngularPOC/WebContent/js/webix.js">
+<persistable path="/WebixAngularPOC/WebContent/js/webix.js"/>
+</file>
+</mruList>
+</workbench>

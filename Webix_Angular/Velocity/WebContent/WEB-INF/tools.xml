@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools>
+	<toolbox scope="application">
+		<tool key="wrench" class="com.velocity.PipeWrench"/>
+<!-- 		<tool key="name" class="com.velocity.HelloTest" /> -->
+	</toolbox>
+</tools>

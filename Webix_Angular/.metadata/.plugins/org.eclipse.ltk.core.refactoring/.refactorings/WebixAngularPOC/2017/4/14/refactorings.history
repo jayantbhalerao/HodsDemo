@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;WebixPOC.TreeBean.link&apos; in &apos;WebixPOC.TreeBean&apos;&#x0D;&#x0A;- Original project: &apos;WebixAngularPOC&apos;&#x0D;&#x0A;- Original element: &apos;WebixPOC.TreeBean.link&apos;&#x0D;&#x0A;- Getter method name: &apos;getLink&apos;&#x0D;&#x0A;- Setter method name: &apos;setLink&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;link&apos;" flags="589830" getter="getLink" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;WebixPOC{TreeBean.java[TreeBean^link" insertion="8" setter="setLink" stamp="1491196075551" version="1.0" visibility="1"/>
+</session>

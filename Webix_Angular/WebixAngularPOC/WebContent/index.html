@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html ng-app="webixApp">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/webix.css" type="text/css">
+
+
+<script src="js/angular.min.js"></script>
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/united/bootstrap.min.css">
+
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="js/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.2.0.js"></script>
+<script type="text/javascript" src="js/webix.js"></script>
+<script src="js/treedata.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="js/controller/TreeController.js"></script>
+<script type="text/javascript" src="js/controller/MenuRenderController.js"></script>
+<script type="text/javascript" src="js/controller/ModuleController.js"></script>
+<script type="text/javascript">
+</script>
+</head>
+<body>
+	<div webix-ui type="space">
+		<!--layout rows with type "space" are created-->
+		<div height="35" ng-controller="MenuRenderController">
+			<div ng-include="'js/views/header.html'"></div>
+		</div>
+		<!--Webix template is initialized -->
+		<div view="cols" type="wide" margin="10">
+			<!--Webix layout cols are initialized-->
+			<div width="200">
+				<div view="tree" ng-controller="TreeController" webix-data="data"
+					select="true"
+					webix-event="onDataRequest=getChildNodes(id, callback, url);onItemClick=treeClick(id, e, node)"
+					id="testTree"
+					template="{common.icon()}{common.folder()}<a ui-sref='#link#' href='##link#'>#value#</a>">
+				</div>
+			</div>
+			<div view="resizer"></div>
+			<div view="tabview">
+				<div header="tab1">
+					<div ui-view></div>
+					<div ng-include="'table.html'"></div>
+				</div>
+			</div>
+		</div>
+
+		<div height="35">Footer</div>
+	</div>
+</body>
+</html>

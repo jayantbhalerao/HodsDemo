@@ -1,0 +1,7 @@
+<classpath>
+  <container id="Velocity!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="E:/Ankur/Workspaces/Webix_Angular/Velocity/WebContent/WEB-INF/lib/velocity-tools-2.0.jar">
+      <source-attachment-path>E:/Ankur/Workspaces/Webix_Angular/Velocity/WebContent/WEB-INF/lib/velocity-tools-2.0.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

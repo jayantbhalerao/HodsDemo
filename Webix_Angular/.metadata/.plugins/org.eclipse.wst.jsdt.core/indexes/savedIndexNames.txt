@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Ajinkya_Data\Webix_Angular\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2582721406.index
+591280427.index
+357113665.index
+780168665.index
+2976064961.index
+1861100722.index
